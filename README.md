@@ -1,2 +1,4 @@
-# NFT_MarketPlace
-Header NFT Market Place created with HTML and CSS
+# NFT Marketplace
+
+![Descripción de la imagen](NFT%20Marketplace/image.png)
+
